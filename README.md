@@ -1,2 +1,2 @@
-# Ders-i-erikleri
+# Ders-içerikleri
 Sanırım derste yapılan bir kaç uygulama.
