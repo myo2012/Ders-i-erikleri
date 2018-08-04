@@ -1,0 +1,15 @@
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\küçükten büyüğe sıralama\küçükten büyüğe sıralama\bin\Debug\küçükten büyüğe sıralama.exe.config
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\küçükten büyüğe sıralama\küçükten büyüğe sıralama\bin\Debug\küçükten büyüğe sıralama.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\küçükten büyüğe sıralama\küçükten büyüğe sıralama\bin\Debug\küçükten büyüğe sıralama.pdb
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.csprojResolveAssemblyReference.cache
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.pdb
+C:\Users\grundig\Desktop\küçükten büyüğe sıralama\küçükten büyüğe sıralama\bin\Debug\küçükten büyüğe sıralama.exe.config
+C:\Users\grundig\Desktop\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.exe
+C:\Users\grundig\Desktop\küçükten büyüğe sıralama\küçükten büyüğe sıralama\bin\Debug\küçükten büyüğe sıralama.exe
+C:\Users\grundig\Desktop\küçükten büyüğe sıralama\küçükten büyüğe sıralama\bin\Debug\küçükten büyüğe sıralama.pdb
+C:\Users\grundig\Desktop\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.csprojResolveAssemblyReference.cache
+C:\Users\grundig\Desktop\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.pdb
+C:\Users\grundig\Desktop\Yeni klasör\küçükten büyüğe sıralama\küçükten büyüğe sıralama\bin\Debug\küçükten büyüğe sıralama.exe.config
+C:\Users\grundig\Desktop\Yeni klasör\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.exe
+C:\Users\grundig\Desktop\Yeni klasör\küçükten büyüğe sıralama\küçükten büyüğe sıralama\obj\Debug\küçükten büyüğe sıralama.pdb

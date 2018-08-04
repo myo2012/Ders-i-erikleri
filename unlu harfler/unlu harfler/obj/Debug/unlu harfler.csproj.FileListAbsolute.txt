@@ -1,0 +1,6 @@
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\unlu harfler\unlu harfler\bin\Debug\unlu harfler.exe.config
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\unlu harfler\unlu harfler\bin\Debug\unlu harfler.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\unlu harfler\unlu harfler\bin\Debug\unlu harfler.pdb
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\unlu harfler\unlu harfler\obj\Debug\unlu harfler.csprojResolveAssemblyReference.cache
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\unlu harfler\unlu harfler\obj\Debug\unlu harfler.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\unlu harfler\unlu harfler\obj\Debug\unlu harfler.pdb

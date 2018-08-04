@@ -1,0 +1,6 @@
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\kaç kere geçtiğini bulma\kaç kere geçtiğini bulma\bin\Debug\kaç kere geçtiğini bulma.exe.config
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\kaç kere geçtiğini bulma\kaç kere geçtiğini bulma\bin\Debug\kaç kere geçtiğini bulma.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\kaç kere geçtiğini bulma\kaç kere geçtiğini bulma\bin\Debug\kaç kere geçtiğini bulma.pdb
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\kaç kere geçtiğini bulma\kaç kere geçtiğini bulma\obj\Debug\kaç kere geçtiğini bulma.csprojResolveAssemblyReference.cache
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\kaç kere geçtiğini bulma\kaç kere geçtiğini bulma\obj\Debug\kaç kere geçtiğini bulma.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\kaç kere geçtiğini bulma\kaç kere geçtiğini bulma\obj\Debug\kaç kere geçtiğini bulma.pdb

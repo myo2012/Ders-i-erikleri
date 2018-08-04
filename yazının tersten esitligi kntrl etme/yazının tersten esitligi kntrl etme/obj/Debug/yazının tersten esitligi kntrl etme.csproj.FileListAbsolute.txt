@@ -1,0 +1,9 @@
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\bin\Debug\yazının tersten esitligi kntrl etme.exe.config
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\bin\Debug\yazının tersten esitligi kntrl etme.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\bin\Debug\yazının tersten esitligi kntrl etme.pdb
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\obj\Debug\yazının tersten esitligi kntrl etme.csprojResolveAssemblyReference.cache
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\obj\Debug\yazının tersten esitligi kntrl etme.exe
+C:\Users\grundig\Documents\Visual Studio 2012\Projects\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\obj\Debug\yazının tersten esitligi kntrl etme.pdb
+C:\Users\grundig\Desktop\Yeni klasör\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\bin\Debug\yazının tersten esitligi kntrl etme.exe.config
+C:\Users\grundig\Desktop\Yeni klasör\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\obj\Debug\yazının tersten esitligi kntrl etme.exe
+C:\Users\grundig\Desktop\Yeni klasör\yazının tersten esitligi kntrl etme\yazının tersten esitligi kntrl etme\obj\Debug\yazının tersten esitligi kntrl etme.pdb
